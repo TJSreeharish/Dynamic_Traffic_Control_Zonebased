@@ -5,7 +5,7 @@ import numpy as np
 polygon_points = []
 
 # Read your video file
-video_path = r"C:\Users\tjsre\OneDrive\Desktop\ty\hackathon\test4.mp4"
+video_path = r(add your video path here example - "C:\Users\test4.mp4")
 cap = cv2.VideoCapture(video_path)
 
 
