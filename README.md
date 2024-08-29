@@ -21,7 +21,7 @@ cvzone
 Installation
 
 Step 1 : open command prompt paste pip install opencv-python numpy ultralytics cvzone
-Step 2 : In the command prompt go to location of main.py
+Step 2 : In the command prompt go to location of main.py   (command - cd Dynamic_Traffic_Zonebased)
 Step 3 : open any editor paste the video file location in Create Zone.py
 Step 4: run the program click on five points to create the zone then press 'q' 
 Step 5: In main.py replace the values in line no -89 ->  light_traffic = np.array([[3,477], [634,473], [585,199], [84,249], [6,473]], np.int32)  
