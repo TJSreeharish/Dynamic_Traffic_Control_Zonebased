@@ -10,7 +10,7 @@ polygon_points = []
 selected_zones = []
 
 # Load the YOLO model
-model = YOLO(r'C:\Users\tjsre\OneDrive\Desktop\ty\yolov10n.pt')
+model = YOLO('yolov10n.pt')
 
 # Classes for YOLO
 classes = {
@@ -75,7 +75,7 @@ def select_zones(video_path):
     return []
 
 # Define the video path
-video_path = r"C:\Users\tjsre\OneDrive\Desktop\ty\hackathon\test4.mp4"
+video_path = r(add video path here - example - "C:\Users\test4.mp4")
 
 # Ask the user if they want to select zones
 change_zones = input("Any changes to the zones? (y/n): ").lower()
