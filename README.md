@@ -4,7 +4,8 @@ TrafficFlowAnalyzer is a Python-based tool that leverages the YOLO object detect
 
 ![Demo](assets/demo.gif)
 ## Demo 
-sample Working
+Sample Working (Image)
+
 ![Sample Working](working_sample_photo.png)
 
 ## Key Features:
