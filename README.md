@@ -84,14 +84,7 @@ python main.py
 
 Here's how the system works:
 
-1. Zone Definition:
-![Zone Definition](assets/zone_definition.png)
-
-2. Traffic Detection:
-![Traffic Detection](assets/traffic_detection.png)
-
-3. Analysis Output:
-![Analysis Output](assets/analysis_output.png)
+![Sample Working](working_sample_photo.png)
 
 ## Contributing
 
